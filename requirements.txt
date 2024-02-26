@@ -1,0 +1,3 @@
+Fastapi
+Jinja2
+uvicorn
